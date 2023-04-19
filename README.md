@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Csb-218
 - 👀I’m currently learning Front-End Development using javascript.
-- - 👀 I’m interested in Ethereum blockchain
-- 🌱 I’m currently learning building tokens.
 - 💞️ I’m looking to collaborate on Frontend Development
 - 📫 reach me at csbhagwant@gmail.com
 
